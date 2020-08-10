@@ -87,4 +87,4 @@
   About *core*
 
   1. If it is a *no_std* environment, you don't need to import "*extern crate core;*" explicitly;
-  2. In the *use_std/std~~~~* environment, if you need to use the core library, you need to explicitly import the "*extern crate core;*".
+  2. In the *use_std/std* environment, if you need to use the core library, you need to explicitly import the "*extern crate core;*".
